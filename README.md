@@ -209,13 +209,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Support
-
-- 📧 Email: [support@sarkasamai.com](mailto:support@sarkasamai.com)  
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/sarkasam-ai/issues)  
-- 📖 Documentation: Wiki  
-
----
 
 ## 🔄 Changelog
 
