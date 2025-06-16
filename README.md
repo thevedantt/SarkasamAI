@@ -234,5 +234,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-<p align="center"> <strong>Built with ❤️ for better communication understanding</strong> </p> 
-<p align="center"> <sub>Sarkasam AI - Making sarcasm detection accessible to everyone</sub> </p>
